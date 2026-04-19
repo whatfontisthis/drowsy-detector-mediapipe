@@ -2,7 +2,11 @@
 
 Browser-based drowsiness detector using MediaPipe FaceLandmarker and Eye Aspect Ratio (EAR). Runs entirely client-side — no server, no API calls.
 
-## Demo
+## Live Demo
+
+https://whatfontisthis.github.io/drowsy-detector-mediapipe/
+
+## Run Locally
 
 1. Clone and serve:
    ```bash
