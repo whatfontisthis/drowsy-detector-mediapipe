@@ -1,10 +1,15 @@
 # Drowsy Detector (MediaPipe)
 
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://whatfontisthis.github.io/drowsy-detector-mediapipe/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 Browser-based drowsiness detector using MediaPipe FaceLandmarker and Eye Aspect Ratio (EAR). Runs entirely client-side — no server, no API calls.
 
 ## Live Demo
 
-https://whatfontisthis.github.io/drowsy-detector-mediapipe/
+**→ [whatfontisthis.github.io/drowsy-detector-mediapipe](https://whatfontisthis.github.io/drowsy-detector-mediapipe/)**
+
+Open in Chrome/Safari, allow webcam, close your eyes for 1.5s — red alert + beep.
 
 ## Run Locally
 
